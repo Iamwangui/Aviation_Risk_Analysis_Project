@@ -7,7 +7,7 @@ By exploring historical safety records, the goal is to support evidence-based de
 The analysis was conducted in Python using **Pandas**, **NumPy**, and **Matplotlib** within a Jupyter Notebook.  
 Both the notebook (`Aviation_analysis.ipynb`) and a final report in PDF format are available in this repository.
 
----
+
 
 ## Business Understanding
 
@@ -22,7 +22,7 @@ Both the notebook (`Aviation_analysis.ipynb`) and a final report in PDF format a
 
 By addressing these questions, the company can make data-driven decisions that enhance operational safety and reduce financial risk.
 
----
+
 
 ## Data Understanding and Analysis
 
@@ -59,7 +59,7 @@ Injuries have steadily declined since the 1980s, reflecting advancements in avia
 
 *(Each visualization was created in the notebook and exported to the `images/` folder for reference.)*
 
----
+
 
 ## Conclusion
 
@@ -73,18 +73,18 @@ Injuries have steadily declined since the 1980s, reflecting advancements in avia
 - **Training Focus:** Emphasize pilot proficiency in takeoff, cruise, and maneuvering phases.  
 - **Continuous Monitoring:** Maintain data-driven safety audits to ensure long-term operational safety improvements.
 
----
 
 
 
----
+
+
 
 **Author:** Grace Wangui
 
  
 **Tools:** Python, Pandas, Matplotlib, NumPy, Jupyter Notebook  
 **License:** MIT 
-````
+
 
 
 

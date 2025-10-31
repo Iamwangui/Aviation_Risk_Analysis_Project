@@ -5,6 +5,9 @@ By exploring historical safety records, the goal is to support evidence-based de
 
 The analysis was conducted in Python using **Pandas**, **NumPy**, and **Matplotlib** within a Jupyter Notebook.  
 Both the notebook (`Aviation_analysis.ipynb`) and a final report in PDF format are available in this repository.
+
+## Link to the Dashboard
+![Dashboard]('https://public.tableau.com/app/profile/grace.wangui6459/viz/AviationRiskAnalysisProject/AVIATIONRISKANALYSISDASHBOARD')
 ## Business Understanding
 ### Stakeholders
 - **Aviation management team** — evaluating aircraft safety before fleet acquisition.  

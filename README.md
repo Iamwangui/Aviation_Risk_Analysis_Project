@@ -7,7 +7,10 @@ The analysis was conducted in Python using **Pandas**, **NumPy**, and **Matplotl
 Both the notebook (`Aviation_analysis.ipynb`) and a final report in PDF format are available in this repository.
 
 ## Link to the Dashboard
-![Dashboard]('https://public.tableau.com/app/profile/grace.wangui6459/viz/AviationRiskAnalysisProject/AVIATIONRISKANALYSISDASHBOARD')
+## Tableau Dashboard
+You can view the interactive dashboard here:  
+[View Aviation Risk Analysis Dashboard on Tableau Public](https://public.tableau.com/app/profile/grace.wangui6459/viz/AviationRiskAnalysisProject/AVIATIONRISKANALYSISDASHBOARD)
+
 ## Business Understanding
 ### Stakeholders
 - **Aviation management team** — evaluating aircraft safety before fleet acquisition.  
